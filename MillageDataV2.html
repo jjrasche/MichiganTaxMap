@@ -2,22 +2,39 @@
 <html>
 <head>
 <meta name="viewport"/>
-<title>schools_locales_modified3 - Google Fusion Tables</title>
+<meta content="Michigan Property Tax Map" property="og:title">
+<meta content="/SiteMetaImage.jpg" property="og:image">
+<title>Michigan Property Tax Map</title>
 <style type="text/css">
-  /* Always set the map height explicitly to define the size of the div
-   * element that contains the map. */
-  #map {
-    height: 100%;
-  }
-  /* Optional: Makes the sample page fill the window. */
-  html, body {
+  html, body, #googft-mapCanvas {
     height: 100%;
     margin: 0;
     padding: 0;
+    width: 100%;
+  }
+  #googft-legend{
+    background-color:#fff;
+    border:1px solid #000;
+    font-family:Arial,sans-serif;
+    font-size:12px;
+    margin:5px;
+    padding:10px 10px 8px}#googft-legend p{font-weight:bold;
+    margin-top:0}#googft-legend div{margin-bottom:5px}.googft-legend-swatch{border:1px solid;
+    float:left;
+    height:12px;
+    margin-right:8px;
+    width:20px}.googft-legend-range{margin-left:0}.googft-dot-icon{margin-right:8px}.googft-paddle-icon{height:24px;
+    left:-8px;
+    margin-right:-8px;
+    position:relative;
+    vertical-align:middle;
+    width:24px}.googft-legend-source{margin-bottom:0;
+    margin-top:8px}.googft-legend-source a{color:#666;
+    font-size:11px
   }
 </style>
 
-<script type="text/javascript" src="https://maps.google.com/maps/api/js?v=3&key=AIzaSyDXxZxWaE1X6aWcphTsHDWEPGSkzXDMpNI"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?v=3"></script>
 
 <script type="text/javascript">
   function initialize() {
@@ -28,14 +45,16 @@
       var viewport = document.querySelector("meta[name=viewport]");
       viewport.setAttribute('content', 'initial-scale=1.0, user-scalable=no');
     }
-    var mapDiv = document.getElementById('map');
+    var mapDiv = document.getElementById('googft-mapCanvas');
+    // mapDiv.style.width = isMobile ? '100%' : '100px';
+    // mapDiv.style.height = isMobile ? '100%' : '300px';
     var map = new google.maps.Map(mapDiv, {
-      center: new google.maps.LatLng(44.5, -85.77695966716249),
+      center: new google.maps.LatLng(44.5, -85.5),
       zoom: 7,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
-    map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('googft-legend-open'));
-    map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('googft-legend'));
+    map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('googft-legend-open'));
+    map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('googft-legend'));
 
     layer = new google.maps.FusionTablesLayer({
       map: map,
@@ -74,6 +93,76 @@
 </head>
 
 <body>
-  <div id="map"></div>
+  <div id="googft-mapCanvas"></div>
+  <input id="googft-legend-open" style="display:none" type="button" value="Legend">
+  <div id="googft-legend">
+    <p id="googft-legend-title">millage rate</p>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #00f514"></span>
+      <span class="googft-legend-range">0 to 18</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #3ef000"></span>
+      <span class="googft-legend-range">18 to 20</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #5eee00"></span>
+      <span class="googft-legend-range">20 to 24</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #7ded00"></span>
+      <span class="googft-legend-range">24 to 28</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #9ceb00"></span>
+      <span class="googft-legend-range">28 to 32</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #bbe900"></span>
+      <span class="googft-legend-range">32 to 35</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #d9e700"></span>
+      <span class="googft-legend-range">35 to 38</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #e6d500"></span>
+      <span class="googft-legend-range">38 to 41</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #e5c500"></span>
+      <span class="googft-legend-range">41 to 46</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #e3a400"></span>
+      <span class="googft-legend-range">46 to 50</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #e18500"></span>
+      <span class="googft-legend-range">50 to 57</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #e06500"></span>
+      <span class="googft-legend-range">57 to 66</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #de4600"></span>
+      <span class="googft-legend-range">66 to 72</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #dd3700"></span>
+      <span class="googft-legend-range">72 to 79</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #db1900"></span>
+      <span class="googft-legend-range">79 to 95</span>
+    </div>
+    <div>
+      <span class="googft-legend-swatch" style="background-color: #da0005"></span>
+      <span class="googft-legend-range">95 to 150</span>
+    </div>
+    <input id="googft-legend-close" style="display:none" type="button" value="Hide">
+  </div>
+
 </body>
 </html>
