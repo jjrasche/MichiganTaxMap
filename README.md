@@ -1,4 +1,11 @@
-Collection of tools to display Google fusion table based map displaying Michigan property taxes by county, locality, and school district.
+# Michigan Tax Map
+
+Collection of tools to display Google [fusion table](https://developers.google.com/maps/documentation/javascript/fusiontableslayer) based map displaying Michigan property taxes by county, locality, and school district.
+
+## Application
+[MillageDataV2.html](https://jjrasche.github.io/MichiganTaxMap/MillageDataV2.html)
+
+## Methodology
 
 milageDate.py: webscrapes property tax data for 2017
 
