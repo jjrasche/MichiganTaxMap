@@ -22,7 +22,7 @@ def noParcelFound(driver):
 
 def goto(url):
     driver.get(url)
-    print "navigating to: {0}".format(url)
+    # print("navigating to: {0}".format(url))
     return getPageSource()
 
 def getPageSource():
@@ -34,10 +34,10 @@ def browseUrlByClass(url, waitClass):
         try:
             WebDriverWait(driver, PAGE_LOAD_WAIT).until(
                 EC.presence_of_element_located((By.CLASS_NAME, waitClass)))
-        except Exception, e:
+        except Exception:
             if noParcelFound(driver):
                 return noRecord
-            raise e
+            raise Exception
         finally:
             saveScreenShot()
     return getPageSource()
@@ -49,10 +49,10 @@ def browseUrlById(url, waitClass):
         try:
             WebDriverWait(driver, PAGE_LOAD_WAIT).until(
                 EC.presence_of_element_located((By.ID, waitClass)))
-        except Exception, e:
+        except Exception:
             if noParcelFound(driver):
                 return noRecord
-            raise e
+            raise Exception
         finally:
             saveScreenShot()
     return getPageSource()
@@ -63,8 +63,8 @@ def browseUrl(url, text):
         try:
             WebDriverWait(driver, PAGE_LOAD_WAIT).until(
                 EC.presence_of_element_located((By.PARTIAL_LINK_TEXT, text)))
-        except Exception, e:
-            raise e
+        except Exception:
+            raise Exception
         finally:
             saveScreenShot()
     return getPageSource()
@@ -72,7 +72,7 @@ def browseUrl(url, text):
 def browseOnAction(action, element):
     try:
         action()
-        loadType = element.keys()[0]
+        loadType = list(element)[0]
         loadIdentifier = element[loadType]
         if (loadType == "class"):
             WebDriverWait(driver, PAGE_LOAD_WAIT).until(
@@ -81,16 +81,16 @@ def browseOnAction(action, element):
             WebDriverWait(driver, PAGE_LOAD_WAIT).until(
                 EC.presence_of_element_located((By.PARTIAL_LINK_TEXT, loadIdentifier)))
             saveScreenShot()
-    except NoSuchElementException, e:
-        print "no element found with text {0}".format(element)
-    except TimeoutException, e:
-        print "timeout on element: {0}\n error:{1}".format(element, e)
+    except NoSuchElementException:
+        print("no element found with text {0}".format(element))
+    except TimeoutException:
+        print("timeout on element: {0}\n error:{1}".format(element, TimeoutException))
         return timeOutException
-    except Exception, e:
-        raise e
+    except Exception:
+        raise Exception
     finally:
         saveScreenShot()
-        print "BOA navigating to: {0}".format(driver.current_url)
+        # print("BOA navigating to: {0}".format(driver.current_url))
     return BeautifulSoup(driver.page_source, "html.parser")
 
 

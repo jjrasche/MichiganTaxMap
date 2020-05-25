@@ -29,7 +29,7 @@ def getPagedData(url):
     ret = ""
     try:
         numCountyOptions = getNumberOfOptions(countyId)
-        for countyOptionIndex in range(82, numCountyOptions):
+        for countyOptionIndex in range(38, numCountyOptions):
             countyOption = getOptionElement(countyId, countyOptionIndex)
             countyName = countyOption.text.strip()
             clickOption(countyOption)
@@ -54,9 +54,10 @@ def getPagedData(url):
                     homeSteadRate, nonHomeSteadRate = rates.split(";")
                     str = "{0}, {1}, {2}, {3}, {4}".format(countyName, localName, school.text, homeSteadRate, nonHomeSteadRate)
                     ret += str + "\n"
-    except Exception, e:
+                    print(str)
+    except Exception:
         pause = 5
-        print ret
+        # print(ret)
         raise
     return ret
 
