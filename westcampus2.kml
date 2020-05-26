@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="west_campus_style">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Google West Campus 1</name>
+      <styleUrl>#west_campus_style</styleUrl>
+        <description><![CDATA[<div class="googft-info-window">
+        <b>geometry_vertex_count:</b> 410<br>
+        <b>County:</b> Alcona County<br>
+        <b>Locality:</b> Alcona Township<br>
+        <b>School District:</b> Alcona Community Schools<br>
+        <b>primary:</b> 19.4545<br>
+        <b>secondary:</b> 37.6345
+        </div>]]></description>
+      <ExtendedData>
+        <Data name="video">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-84.408409,42.747311,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google West Campus 2</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value>2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.0926995893311,37.42419403634421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google West Campus 3</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.0922532985281,37.42301710721216,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
