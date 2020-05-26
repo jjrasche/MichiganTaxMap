@@ -16,6 +16,14 @@
     <Placemark>
       <name>Google West Campus 1</name>
       <styleUrl>#west_campus_style</styleUrl>
+        <description><![CDATA[<div class="googft-info-window">
+        <b>geometry_vertex_count:</b> 410<br>
+        <b>County:</b> Alcona County<br>
+        <b>Locality:</b> Alcona Township<br>
+        <b>School District:</b> Alcona Community Schools<br>
+        <b>primary:</b> 19.4545<br>
+        <b>secondary:</b> 37.6345
+        </div>]]></description>
       <ExtendedData>
         <Data name="video">
           <value><![CDATA[<iframe width="480" height="360"
