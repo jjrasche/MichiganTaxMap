@@ -12,3 +12,6 @@ milageDate.py: webscrapes property tax data for 2017
 matchGISToTaxData.py: associates scraped tax data with unioned school district and municipalities GIS
 
 MillageDataV2.html: markup invoking fusion tables seeded with results from matchGISToTaxData.py
+
+## Development Notes
+- Google appears to be caching the kml file pulls 
