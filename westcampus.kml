@@ -26,9 +26,7 @@
         </div>]]></description>
       <ExtendedData>
         <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
+          <value>1</value>
         </Data>
       </ExtendedData>
       <Point>
@@ -40,9 +38,7 @@
       <styleUrl>#west_campus_style</styleUrl>
       <ExtendedData>
         <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
+          <value>2</value>
         </Data>
       </ExtendedData>
       <Point>
@@ -54,9 +50,7 @@
       <styleUrl>#west_campus_style</styleUrl>
       <ExtendedData>
         <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
+          <value>3</value>
         </Data>
       </ExtendedData>
       <Point>
