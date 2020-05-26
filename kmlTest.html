@@ -28,16 +28,16 @@
     <script>
       var map;
     //   var src = 'https://jjrasche.github.io/MichiganTaxMap/westcampus.kml';
-      var src = 'https://jjrasche.github.io/MichiganTaxMap/schools_locales_modified.kml';
+      var src = 'https://jjrasche.github.io/MichiganTaxMap/westcampus.kml';
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-        //   center: new google.maps.LatLng(-19.257753, 146.823688),
-        //   zoom: 2,
-        //   mapTypeId: 'terrain'
-            center: new google.maps.LatLng(44.5, -85.5),
-            zoom: 7,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
+          center: new google.maps.LatLng(-19.257753, 146.823688),
+          zoom: 2,
+          mapTypeId: 'terrain'
+            // center: new google.maps.LatLng(44.5, -85.5),
+            // zoom: 7,
+            // mapTypeId: google.maps.MapTypeId.ROADMAP
         });
 
         var kmlLayer = new google.maps.KmlLayer(src, {
