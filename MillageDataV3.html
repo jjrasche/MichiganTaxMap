@@ -5,32 +5,105 @@
     <meta charset="utf-8">
     <title>KML Click Capture Sample</title>
     <style>
-      html, body {
-        height: 370px;
-        padding: 0;
+      html, body, #map {
+        height: 100%;
         margin: 0;
-        }
-      #map {
-       height: 360px;
-       width: 300px;
-       overflow: hidden;
-       float: left;
-       border: thin solid #333;
-       }
-      #capture {
-       height: 360px;
-       width: 480px;
-       overflow: hidden;
-       float: left;
-       background-color: #ECECFB;
-       border: thin solid #333;
-       border-left: none;
-       }
+        padding: 0;
+        width: 100%;
+    }
+    #googft-legend{
+        background-color:#fff;
+        border:1px solid #000;
+        font-family:Arial,sans-serif;
+        font-size:12px;
+        margin:5px;
+        padding:10px 10px 8px}#googft-legend p{font-weight:bold;
+        margin-top:0}#googft-legend div{margin-bottom:5px}.googft-legend-swatch{border:1px solid;
+        float:left;
+        height:12px;
+        margin-right:8px;
+        width:20px}.googft-legend-range{margin-left:0}.googft-dot-icon{margin-right:8px}.googft-paddle-icon{height:24px;
+        left:-8px;
+        margin-right:-8px;
+        position:relative;
+        vertical-align:middle;
+        width:24px}.googft-legend-source{margin-bottom:0;
+        margin-top:8px}.googft-legend-source a{color:#666;
+        font-size:11px
+    }
     </style>
   </head>
   <body>
     <div id="map"></div>
-    <div id="capture"></div>
+    <input id="googft-legend-open" style="display:none" type="button" value="Legend">
+    <div id="googft-legend">
+      <p id="googft-legend-title">millage rate</p>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #00f514"></span>
+        <span class="googft-legend-range">0 to 18</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #3ef000"></span>
+        <span class="googft-legend-range">18 to 20</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #5eee00"></span>
+        <span class="googft-legend-range">20 to 24</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #7ded00"></span>
+        <span class="googft-legend-range">24 to 28</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #9ceb00"></span>
+        <span class="googft-legend-range">28 to 32</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #bbe900"></span>
+        <span class="googft-legend-range">32 to 35</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #d9e700"></span>
+        <span class="googft-legend-range">35 to 38</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #e6d500"></span>
+        <span class="googft-legend-range">38 to 41</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #e5c500"></span>
+        <span class="googft-legend-range">41 to 46</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #e3a400"></span>
+        <span class="googft-legend-range">46 to 50</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #e18500"></span>
+        <span class="googft-legend-range">50 to 57</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #e06500"></span>
+        <span class="googft-legend-range">57 to 66</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #de4600"></span>
+        <span class="googft-legend-range">66 to 72</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #dd3700"></span>
+        <span class="googft-legend-range">72 to 79</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #db1900"></span>
+        <span class="googft-legend-range">79 to 95</span>
+      </div>
+      <div>
+        <span class="googft-legend-swatch" style="background-color: #da0005"></span>
+        <span class="googft-legend-range">95 to 150</span>
+      </div>
+      <input id="googft-legend-close" style="display:none" type="button" value="Hide">
+    </div>    <div id="capture"></div>
     <script>
       var map;
       var src = 'https://jjrasche.github.io/MichiganTaxMap/schools_locales_modified.kml';
@@ -47,11 +120,9 @@
           preserveViewport: false,
           map: map
         });
-        kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
-          var testimonial = document.getElementById('capture');
-          testimonial.innerHTML = content;
-        });
+        // kmlLayer.addListener('click', function(event) {
+        //   var content = event.featureData.infoWindowHtml;
+        // });
       }
     </script>
     <script async defer
