@@ -106,7 +106,7 @@
     </div>    <div id="capture"></div>
     <script>
       var map;
-      var src = 'https://jjrasche.github.io/MichiganTaxMap/schools_locales_modifie3.kml';
+      var src = 'https://jjrasche.github.io/MichiganTaxMap/schools_locales_modified4.kml';
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -120,9 +120,10 @@
           preserveViewport: false,
           map: map
         });
-        // kmlLayer.addListener('click', function(event) {
-        //   var content = event.featureData.infoWindowHtml;
-        // });
+        kmlLayer.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          console.log(event);
+        });
       }
     </script>
     <script async defer
