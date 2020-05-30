@@ -15,7 +15,13 @@
 				<width>5</width>
 			</LineStyle>
 			<BalloonStyle>
-				<text>$[description]</text>
+				<text><![CDATA[<div class="googft-info-window">
+<b>County:</b> $[County]<br>
+<b>Locality:</b> $[Locality]<br>
+<b>School District:</b> $[School District]<br>
+<b>primary:</b>$[primary]<br>
+<b>secondary:</b> $[secondary]
+</div>]]></text>
 			</BalloonStyle>
 		</Style>
 		<Placemark>
