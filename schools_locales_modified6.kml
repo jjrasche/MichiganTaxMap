@@ -10,7 +10,7 @@
             </Icon>
             </IconStyle>
             <BalloonStyle>
-            <text>$[video]</text>
+                <text>$[video]</text>
             </BalloonStyle>
         </Style>
 		<Style id='Style2-point-1'>
