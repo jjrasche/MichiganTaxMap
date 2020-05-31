@@ -106,7 +106,8 @@
     </div>    <div id="capture"></div>
     <script>
       var map;
-      var src = 'https://jjrasche.github.io/MichiganTaxMap/kml-data1/data1v3.kml';
+      var date = new Date();
+      var src = `https://jjrasche.github.io/MichiganTaxMap/kml-data1/data1v3.kml?dummy=${(new Date).getTime()}`;
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
