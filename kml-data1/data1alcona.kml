@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>schools_locales_modified</name>
+		<name>alcona</name>
 		<Style id='00-18'>
 			<LineStyle><color>7f00f514</color></LineStyle>
             <PolyStyle><color>7f00f514</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
@@ -210,7 +210,8 @@
 </div>]]></text>
 			</BalloonStyle>
 		</Style>
-<Placemark>
+
+		<Placemark>
 			<styleUrl>#18-20</styleUrl>
 			<ExtendedData>
 				<Data name='County'><value>Alcona County</value></Data>
