@@ -3,7 +3,7 @@
 	<Document>
 		<name>schools_locales_modified</name>
 		<Style id='00-18'>
-            <PolyStyle><color>7f00f514</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7f00f514</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -15,7 +15,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='18-20'>
-            <PolyStyle><color>7f3ef000</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7f3ef000</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -27,7 +27,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='20-24'>
-            <PolyStyle><color>7f5eee00</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7f5eee00</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -39,7 +39,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='24-28'>
-            <PolyStyle><color>7f7ded00</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7f7ded00</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -51,7 +51,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='28-32'>
-            <PolyStyle><color>7f9ceb00</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7f9ceb00</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -63,7 +63,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='32-35'>
-            <PolyStyle><color>7fbbe900</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fbbe900</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -75,7 +75,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='35-38'>
-            <PolyStyle><color>7fd9e700</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fd9e700</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -87,7 +87,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='38-41'>
-            <PolyStyle><color>7fe6d500</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fe6d500</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -99,7 +99,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='41-46'>
-            <PolyStyle><color>7fe5c500</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fe5c500</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -111,7 +111,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='46-50'>
-            <PolyStyle><color>7fe3a400</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fe3a400</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -123,7 +123,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='50-57'>
-            <PolyStyle><color>7fe18500</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fe18500</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -135,7 +135,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='57-66'>
-            <PolyStyle><color>7fe06500</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fe06500</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -147,7 +147,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='66-72'>
-            <PolyStyle><color>7fde4600</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fde4600</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -159,7 +159,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='72-79'>
-            <PolyStyle><color>7fdd3700</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fdd3700</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -171,7 +171,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='79-95'>
-            <PolyStyle><color>7fdb1900</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fdb1900</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
@@ -183,7 +183,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='95-15'>
-            <PolyStyle><color>7fda0005</color><fill>1</fill><outline>0</outline></PolyStyle>
+            <PolyStyle><color>7fda0005</color><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
 <b>County:</b> $[County]<br>
