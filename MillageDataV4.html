@@ -120,10 +120,10 @@
         });
 
         var files = ["data1.kml", "data2.kml", "data3.kml", "data4.kml", "data5.kml", "data6.kml"];
-        var fileLocation = "https://jjrasche.github.io/MichiganTaxMap/kml-data/";
+        var fileLocation = "https://jjrasche.github.io/MichiganTaxMap/kml-data1/";
         files.forEach(file => {
             var layer = new google.maps.KmlLayer(fileLocation + file, { preserveViewport: false, map: map});
-            kmlLayer1.addListener('click', 
+            layer.addListener('click', 
                 function(event) {
                     var content = event.featureData.infoWindowHtml;
                     console.log(event);
