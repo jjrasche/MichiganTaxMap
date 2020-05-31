@@ -3,6 +3,7 @@
 	<Document>
 		<name>alcona</name>
 		<Style id='00-18'>
+			<LineStyle><color>7f00f514</color><width>4</width></LineStyle>
             <PolyStyle><color>7f00f514</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -15,6 +16,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='18-20'>
+			<LineStyle><color>7f3ef000</color><width>4</width></LineStyle>
             <PolyStyle><color>7f3ef000</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -27,6 +29,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='20-24'>
+			<LineStyle><color>7f5eee00</color><width>4</width></LineStyle>
             <PolyStyle><color>7f5eee00</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -39,6 +42,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='24-28'>
+			<LineStyle><color>7f7ded00</color><width>4</width></LineStyle>
             <PolyStyle><color>7f7ded00</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -51,6 +55,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='28-32'>
+			<LineStyle><color>7f9ceb00</color><width>4</width></LineStyle>
             <PolyStyle><color>7f9ceb00</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -63,6 +68,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='32-35'>
+			<LineStyle><color>7fbbe900</color><width>4</width></LineStyle>
             <PolyStyle><color>7fbbe900</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -75,6 +81,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='35-38'>
+			<LineStyle><color>7fd9e700</color><width>4</width></LineStyle>
             <PolyStyle><color>7fd9e700</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -87,6 +94,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='38-41'>
+			<LineStyle><color>7fe6d500</color><width>4</width></LineStyle>
             <PolyStyle><color>7fe6d500</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -99,6 +107,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='41-46'>
+			<LineStyle><color>7fe5c500</color><width>4</width></LineStyle>
             <PolyStyle><color>7fe5c500</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -111,6 +120,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='46-50'>
+			<LineStyle><color>7fe3a400</color><width>4</width></LineStyle>
             <PolyStyle><color>7fe3a400</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -123,6 +133,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='50-57'>
+			<LineStyle><color>7fe18500</color><width>4</width></LineStyle>
             <PolyStyle><color>7fe18500</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -135,6 +146,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='57-66'>
+			<LineStyle><color>7fe06500</color><width>4</width></LineStyle>
             <PolyStyle><color>7fe06500</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -147,6 +159,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='66-72'>
+			<LineStyle><color>7fde4600</color><width>4</width></LineStyle>
             <PolyStyle><color>7fde4600</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -159,6 +172,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='72-79'>
+			<LineStyle><color>7fdd3700</color><width>4</width></LineStyle>
             <PolyStyle><color>7fdd3700</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -171,6 +185,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='79-95'>
+			<LineStyle><color>7fdb1900</color><width>4</width></LineStyle>
             <PolyStyle><color>7fdb1900</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
@@ -183,6 +198,7 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='95-15'>
+			<LineStyle><color>7fda0005</color><width>4</width></LineStyle>
             <PolyStyle><color>7fda0005</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<div class="googft-info-window">
