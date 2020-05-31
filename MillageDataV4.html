@@ -119,10 +119,17 @@
             mapTypeId: google.maps.MapTypeId.ROADMAP
         });
 
-        var kmlLayer1 = new google.maps.KmlLayer('https://jjrasche.github.io/MichiganTaxMap/kml-data/alcona6.kml', { preserveViewport: false, map: map});
-        kmlLayer1.addListener('click', handleClickEvent);
-        // var kmlLayer2 = new google.maps.KmlLayer('https://jjrasche.github.io/MichiganTaxMap/kml-data/alger.kml', { preserveViewport: false, map: map});
-        // kmlLayer2.addListener('click', handleClickEvent);
+        var files = ["data1.kml", "data2.kml", "data3.kml", "data4.kml", "data5.kml", "data6.kml"];
+        var fileLocation = "https://jjrasche.github.io/MichiganTaxMap/kml-data/";
+        files.forEach(file => {
+            var layer = new google.maps.KmlLayer(fileLocation + file, { preserveViewport: false, map: map});
+            kmlLayer1.addListener('click', 
+                function(event) {
+                    var content = event.featureData.infoWindowHtml;
+                    console.log(event);
+                }
+            );
+        })
       }
     </script>
     <script async defer
