@@ -1519,8 +1519,6 @@ Kalkaska County,  Bear Lake Township ,  Crawford Ausable Schools , 27.7211, 45.9
 Kalkaska County,  Bear Lake Township ,  Kalkaska Public Schools , 27.9414, 46.1214
 Kalkaska County,  Blue Lake Township ,  Kalkaska Public Schools , 28.0486, 46.2286
 Kalkaska County,  Boardman Township ,  Forest Area Community S/d , 26.4556, 44.4577
-timeout on element: {'class': 'header'}
- error:<class 'selenium.common.exceptions.TimeoutException'>
 Kalkaska County,  Clearwater Township ,  Elk Rapids Schools , 24.6844, 42.8644
 Kalkaska County,  Clearwater Township ,  Kalkaska Public Schools , 27.7548, 45.9348
 Kalkaska County,  Cold Springs Township ,  Kalkaska Public Schools , 29.2527, 47.4327
@@ -2358,3 +2356,746 @@ Otsego County,  Corwith Township - Vanderbilt ,  Vanderbilt Area School , 34.139
 Otsego County,  Dover Township ,  Gaylord Community Schools , 24.1404, 42.3204
 Otsego County,  Dover Township ,  Johannesburg-lewiston Schs , 22.2842, 40.4642
 Otsego County,  Dover Township ,  Vanderbilt Area School , 23.7481, 41.9281
+Otsego County,  Bagley Township ,  Gaylord Community Schools , 22.1814, 40.1814
+Otsego County,  Charlton Township ,  Johannesburg-lewiston Schs , 22.2683, 40.4483
+Otsego County,  Chester Township ,  Gaylord Community Schools , 23.3122, 41.4922
+Otsego County,  Chester Township ,  Johannesburg-lewiston Schs , 21.456, 39.636
+Otsego County,  Corwith Township ,  Vanderbilt Area School , 24.2335, 42.4135
+Otsego County,  Corwith Township - Vanderbilt ,  Vanderbilt Area School , 34.1394, 52.3194
+Otsego County,  Dover Township ,  Gaylord Community Schools , 24.1404, 42.3204
+Otsego County,  Dover Township ,  Johannesburg-lewiston Schs , 22.2842, 40.4642
+Otsego County,  Dover Township ,  Vanderbilt Area School , 23.7481, 41.9281
+Otsego County,  Elmira Township ,  Gaylord Community Schools , 24.3044, 42.4844
+Otsego County,  Gaylord ,  Gaylord Community Schools , 47.2915, 65.4715
+Otsego County,  Hayes Township ,  Gaylord Community Schools , 23.2831, 41.4631
+Otsego County,  Livingston Township ,  Gaylord Community Schools , 23.3122, 41.4922
+Otsego County,  Livingston Township ,  Vanderbilt Area School , 22.9199, 41.0999
+Otsego County,  Otsego Lake Township ,  Crawford Ausable Schools , 25.4236, 43.6036
+Otsego County,  Otsego Lake Township ,  Gaylord Community Schools , 24.2926, 42.4726
+Ottawa County,  Allendale Township ,  Allendale Public School Dist , 31.4415, 49.4901
+Ottawa County,  Allendale Township ,  Hudsonville Public Sch Dist , 27.4094, 45.4544
+Ottawa County,  Blendon Township ,  Hudsonville Public Sch Dist , 27.8332, 46.0132
+Ottawa County,  Blendon Township ,  Zeeland Public Schools , 28.613, 46.793
+Ottawa County,  Chester Township ,  Coopersville Public Sch Dist , 31.0814, 49.2614
+Ottawa County,  Chester Township ,  Kent City Community Schools , 33.3465, 51.5028
+Ottawa County,  Chester Township ,  Ravenna Public Schools , 28.9708, 47.1508
+Ottawa County,  Chester Township ,  Sparta Area Schools , 32.2434, 50.4234
+Ottawa County,  Coopersville ,  Coopersville Public Sch Dist , 40.5297, 58.7097
+Ottawa County,  Crockery Township ,  Coopersville Public Sch Dist , 29.5945, 47.7745
+Ottawa County,  Crockery Township ,  Fruitport Community Schools , 26.7769, 44.9569
+Ottawa County,  Crockery Township ,  Spring Lake Public Sch Dist , 27.5846, 45.7646
+Ottawa County,  Ferrysburg ,  Grand Haven City School Dist , 31.3855, 49.3855
+Ottawa County,  Georgetown Township ,  Grandville Public Schools , 25.9507, 43.7834
+Ottawa County,  Georgetown Township ,  Hudsonville Public Sch Dist , 27.3381, 45.3381
+Ottawa County,  Georgetown Township ,  Jenison Public Schools , 27.8602, 45.6478
+Ottawa County,  Grand Haven ,  Grand Haven City School Dist , 36.6879, 54.8679
+Ottawa County,  Grand Haven Township ,  Grand Haven City School Dist , 27.2496, 45.4296
+Ottawa County,  Holland ,  Holland City School District , 42.2161, 60.1628
+Ottawa County,  Holland ,  Zeeland Public Schools , 41.5212, 59.7012
+Ottawa County,  Holland Township ,  Holland City School District , 32.7899, 50.5589
+Ottawa County,  Holland Township ,  West Ottawa Public Sch Dist , 31.3976, 49.3976
+Ottawa County,  Holland Township ,  Zeeland Public Schools , 32.1019, 50.1019
+Ottawa County,  Hudsonville ,  Hudsonville Public Sch Dist , 36.1766, 54.3566
+Ottawa County,  Jamestown Township ,  Grandville Public Schools , 27.5147, 45.3474
+Ottawa County,  Jamestown Township ,  Hudsonville Public Sch Dist , 28.9021, 46.9021
+Ottawa County,  Olive Township ,  West Ottawa Public Sch Dist , 29.6813, 47.6813
+Ottawa County,  Olive Township ,  Zeeland Public Schools , 30.4294, 48.5194
+Ottawa County,  Park Township ,  Holland City School District , 30.5587, 48.3277
+Ottawa County,  Park Township ,  West Ottawa Public Sch Dist , 29.1664, 47.1664
+Ottawa County,  Polkton Township ,  Coopersville Public Sch Dist , 30.963, 49.143
+Ottawa County,  Port Sheldon Township ,  Grand Haven City School Dist , 23.4996, 41.6796
+Ottawa County,  Port Sheldon Township ,  West Ottawa Public Sch Dist , 26.3657, 44.5457
+Ottawa County,  Robinson Township ,  Grand Haven City School Dist , 25.4952, 43.6752
+Ottawa County,  Robinson Township ,  Zeeland Public Schools , 30.1715, 48.3515
+Ottawa County,  Spring Lake Township ,  Fruitport Community Schools , 28.5199, 46.6999
+Ottawa County,  Spring Lake Township ,  Grand Haven City School Dist , 26.4188, 44.5988
+Ottawa County,  Spring Lake Township ,  Spring Lake Public Sch Dist , 29.3276, 47.5076
+Ottawa County,  Spring Lake Township - Spring Lake ,  Spring Lake Public Sch Dist , 39.7912, 57.9712
+Ottawa County,  Tallmadge Township ,  Coopersville Public Sch Dist , 28.0807, 46.2607
+Ottawa County,  Tallmadge Township ,  Grandville Public Schools , 25.6572, 43.6683
+Ottawa County,  Tallmadge Township ,  Kenowa Hills Public Schools , 25.4653, 43.6453
+Ottawa County,  Wright Township ,  Coopersville Public Sch Dist , 29.4916, 47.6716
+Ottawa County,  Wright Township ,  Kenowa Hills Public Schools , 26.8762, 45.0562
+Ottawa County,  Wright Township ,  Sparta Area Schools , 30.6536, 48.8336
+Ottawa County,  Zeeland ,  Zeeland Public Schools , 36.5956, 54.5956
+Ottawa County,  Zeeland Township ,  Hudsonville Public Sch Dist , 31.3119, 49.3119
+Ottawa County,  Zeeland Township ,  Zeeland Public Schools , 32.084, 50.084
+Presque Isle County,  Allis Township ,  Onaway Area Comm School Dist , 18.1176, 36.1176
+Presque Isle County,  Bearinger Township ,  Cheboygan Area Schools , 20.7559, 38.8626
+Presque Isle County,  Bearinger Township ,  Onaway Area Comm School Dist , 20.1113, 38.2913
+Presque Isle County,  Belknap Township ,  Posen Cons School District , 23.237, 41.417
+Presque Isle County,  Belknap Township ,  Rogers City Area Schools , 21.5024, 39.6824
+Presque Isle County,  Bismarck Township ,  Hillman Community Schools , 22.4734, 40.6534
+Presque Isle County,  Bismarck Township ,  Rogers City Area Schools , 20.485, 38.665
+Presque Isle County,  Case Township ,  Onaway Area Comm School Dist , 21.9216, 40.1016
+Presque Isle County,  Case Township - Millersburg ,  Onaway Area Comm School Dist , 28.5619, 46.7419
+Presque Isle County,  Krakow Township ,  Alpena Public Schools , 23.6831, 41.8631
+Presque Isle County,  Krakow Township ,  Posen Cons School District , 22.2173, 40.3973
+Presque Isle County,  Metz Township ,  Posen Cons School District , 23.2343, 41.4143
+Presque Isle County,  Metz Township ,  Rogers City Area Schools , 21.4998, 39.6798
+Presque Isle County,  Moltke Township ,  Rogers City Area Schools , 21.4998, 39.6798
+Presque Isle County,  North Allis Township ,  Onaway Area Comm School Dist , 19.3054, 37.4854
+Presque Isle County,  Ocqueoc Township ,  Onaway Area Comm School Dist , 20.9222, 39.1022
+Presque Isle County,  Onaway ,  Onaway Area Comm School Dist , 38.0359, 56.2159
+Presque Isle County,  Posen Township ,  Posen Cons School District , 22.207, 40.387
+Presque Isle County,  Posen Township - Posen ,  Posen Cons School District , 26.372, 44.552
+Presque Isle County,  Presque Isle Township ,  Alpena Public Schools , 21.8733, 40.0533
+Presque Isle County,  Pulawski Township ,  Posen Cons School District , 24.2455, 42.4255
+Presque Isle County,  Rogers City ,  Rogers City Area Schools , 36.6302, 54.8102
+Presque Isle County,  Rogers Township ,  Rogers City Area Schools , 20.4924, 38.6724
+Roscommon County,  Au Sable Township ,  Gerrish Higgins School Dist , 24.2389, 42.3662
+Roscommon County,  Backus Township ,  Houghton Lake Comm Schools , 22.3317, 40.3317
+Roscommon County,  Denton Township ,  Houghton Lake Comm Schools , 24.5778, 42.7578
+Roscommon County,  Gerrish Township ,  Gerrish Higgins School Dist , 25.6161, 43.5639
+Roscommon County,  Higgins Township ,  Gerrish Higgins School Dist , 26.3421, 44.2899
+Roscommon County,  Higgins Township - Roscommon ,  Gerrish Higgins School Dist , 38.6421, 56.5899
+Roscommon County,  Lake Township ,  Houghton Lake Comm Schools , 23.8432, 42.0232
+Roscommon County,  Lyon Township ,  Gerrish Higgins School Dist , 24.1527, 42.1005
+Roscommon County,  Markey Township ,  Houghton Lake Comm Schools , 23.5705, 41.5705
+Roscommon County,  Nester Township ,  Houghton Lake Comm Schools , 21.5583, 39.7383
+Roscommon County,  Richfield Township ,  Gerrish Higgins School Dist , 25.8501, 43.9774
+Roscommon County,  Richfield Township ,  Houghton Lake Comm Schools , 25.2239, 43.4039
+Roscommon County,  Roscommon Township ,  Houghton Lake Comm Schools , 24.1861, 42.3661
+Saginaw County,  Albee Township ,  Chesaning Union Schools , 26.7279, 44.9079
+Saginaw County,  Beuna Vista Township ,  Bay City School District , 39.0125, 57.1925
+Saginaw County,  Beuna Vista Township ,  Bridgeport-spaulding C S D , 36.1581, 54.3381
+Saginaw County,  Beuna Vista Township ,  Frankenmuth School District , 35.1481, 52.938
+Saginaw County,  Beuna Vista Township ,  Reese Public Schools , 40.3498, 58.2644
+Saginaw County,  Beuna Vista Township ,  Saginaw City School District , 33.1281, 51.3081
+Saginaw County,  Birch Run Township ,  Birch Run Area School Dist , 26.0931, 44.2731
+Saginaw County,  Birch Run Township ,  Clio Area School District , 25.6837, 43.8637
+Saginaw County,  Birch Run Township ,  Frankenmuth School District , 26.2547, 44.0447
+Saginaw County,  Birch Run Township - Birch Run ,  Birch Run Area School Dist , 34.2438, 52.4238
+Saginaw County,  Blumfield Township ,  Frankenmuth School District , 26.7682, 44.5582
+Saginaw County,  Blumfield Township ,  Reese Public Schools , 28.8295, 46.7441
+Saginaw County,  Blumfield Township - Reese ,  Reese Public Schools , 41.4545, 59.3691
+Saginaw County,  Brady Township ,  Chesaning Union Schools , 27.222, 45.402
+Saginaw County,  Brady Township - Oakley ,  Chesaning Union Schools , 31.8516, 50.0316
+Saginaw County,  Brant Township ,  Chesaning Union Schools , 27.9488, 46.1288
+Saginaw County,  Brant Township ,  Merrill Comm School District , 30.1809, 48.3609
+Saginaw County,  Brant Township ,  St Charles Community Schools , 26.8681, 45.0481
+Saginaw County,  Brant Township - St Charles ,  St Charles Community Schools , 42.0181, 60.1981
+Saginaw County,  Bridgeport Township ,  Bridgeport-spaulding C S D , 28.4609, 46.6409
+Saginaw County,  Carrollton Township ,  Carrollton School District , 45.4897, 63.6661
+Saginaw County,  Chapin Township ,  Ashley Community Schools , 33.4938, 51.4957
+Saginaw County,  Chapin Township ,  Chesaning Union Schools , 27.4426, 45.6226
+Saginaw County,  Chapin Township ,  Ovid Elsie Area Schools , 31.322, 49.4711
+Saginaw County,  Chesaning Township ,  Chesaning Union Schools , 28.274, 46.454
+Saginaw County,  Chesaning Township ,  New Lothrop Area Public Sd , 32.436, 50.616
+Saginaw County,  Chesaning Township - Chesaning ,  Chesaning Union Schools , 50.7462, 68.9262
+Saginaw County,  Frankenmuth ,  Frankenmuth School District , 33.3858, 51.1757
+Saginaw County,  Frankenmuth Township ,  Frankenmuth School District , 27.176, 44.9659
+Saginaw County,  Fremont Township ,  Hemlock Public School Dist , 24.2047, 42.3847
+Saginaw County,  Fremont Township ,  Merrill Comm School District , 27.972, 46.152
+Saginaw County,  Fremont Township ,  St Charles Community Schools , 24.6592, 42.8392
+Saginaw County,  James Township ,  Swan Valley School District , 28.3771, 46.5571
+Saginaw County,  Jonesfield Township ,  Breckenridge Comm Schools , 30.1467, 48.3267
+Saginaw County,  Jonesfield Township ,  Merrill Comm School District , 32.5694, 50.7494
+Saginaw County,  Jonesfield Township - Merrill ,  Merrill Comm School District , 46.0529, 64.2329
+Saginaw County,  Kochville Township ,  Bay City School District , 26.0061, 44.1861
+Saginaw County,  Kochville Township ,  Freeland Comm School Dist , 23.7774, 41.9574
+Saginaw County,  Kochville Township ,  Saginaw City School District , 29.5094, 47.6894
+Saginaw County,  Lakefield Township ,  Merrill Comm School District , 34.562, 52.742
+Saginaw County,  Maple Grove Township ,  Chesaning Union Schools , 25.6855, 43.8655
+Saginaw County,  Maple Grove Township ,  Montrose Community Schools , 28.7917, 46.6517
+Saginaw County,  Maple Grove Township ,  New Lothrop Area Public Sd , 29.8475, 48.0275
+Saginaw County,  Marion Township ,  Ashley Community Schools , 36.7657, 54.7676
+Saginaw County,  Marion Township ,  Merrill Comm School District , 32.9466, 51.1266
+Saginaw County,  Marion Township ,  St Charles Community Schools , 29.6338, 47.8138
+Saginaw County,  Richland Township ,  Freeland Comm School Dist , 30.2315, 48.4115
+Saginaw County,  Richland Township ,  Hemlock Public School Dist , 30.7168, 48.8968
+Saginaw County,  Saginaw ,  Saginaw City School District , 46.5848, 64.7648
+Saginaw County,  Saginaw Township ,  Saginaw Twp Community School , 30.3778, 48.5578
+Saginaw County,  Spaulding Township ,  Bridgeport-spaulding C S D , 25.1376, 43.3176
+Saginaw County,  St Charles Township ,  Chesaning Union Schools , 28.071, 46.251
+Saginaw County,  St Charles Township ,  St Charles Community Schools , 26.9903, 45.1703
+Saginaw County,  St Charles Township - St Charles ,  St Charles Community Schools , 42.1403, 60.3203
+Saginaw County,  Swan Creek Township ,  Hemlock Public School Dist , 26.4576, 44.6376
+Saginaw County,  Swan Creek Township ,  St Charles Community Schools , 26.9121, 45.0921
+Saginaw County,  Swan Creek Township ,  Swan Valley School District , 29.3866, 47.5666
+Saginaw County,  Swan Creek Township - St Charles ,  St Charles Community Schools , 42.0621, 60.2421
+Saginaw County,  Taymouth Township ,  Birch Run Area School Dist , 24.1761, 42.3561
+Saginaw County,  Thomas Township ,  Freeland Comm School Dist , 26.6227, 44.8027
+Saginaw County,  Thomas Township ,  Hemlock Public School Dist , 27.108, 45.288
+Saginaw County,  Thomas Township ,  Swan Valley School District , 30.037, 48.217
+Saginaw County,  Tittabawassee Township ,  Bay City School District , 29.6819, 47.8619
+Saginaw County,  Tittabawassee Township ,  Freeland Comm School Dist , 27.4532, 45.6332
+Saginaw County,  Zilwaukee ,  Saginaw City School District , 40.2312, 58.4112
+Saginaw County,  Zilwaukee Township ,  Bay City School District , 30.2898, 48.4698
+Saint Clair County,  Algonac ,  Algonac Community Sch Dist , 37.4501, 55.5283
+Saint Clair County,  Berlin Township ,  Almont Community Schools , 29.5396, 46.7718
+Saint Clair County,  Berlin Township ,  Armada Area Schools , 27.9694, 45.9694
+Saint Clair County,  Berlin Township ,  Capac Community Sch District , 26.8441, 44.7235
+Saint Clair County,  Brockway Township ,  Capac Community Sch District , 28.5127, 46.5709
+Saint Clair County,  Brockway Township ,  Yale Public Schools , 30.0166, 48.1966
+Saint Clair County,  Burtchville Township ,  Croswell Lexington Comm Sd , 22.4255, 40.6055
+Saint Clair County,  Burtchville Township ,  Port Huron Area School Dist , 26.1662, 44.3462
+Saint Clair County,  Casco Township ,  Anchor Bay School District , 29.2032, 47.3832
+Saint Clair County,  Casco Township ,  East China Twp School Dist , 24.8426, 43.0226
+Saint Clair County,  Casco Township ,  Richmond Community Schools , 24.6582, 42.8382
+Saint Clair County,  China Township ,  East China Twp School Dist , 25.3466, 43.3466
+Saint Clair County,  Clay Township ,  Algonac Community Sch Dist , 30.3244, 48.4026
+Saint Clair County,  Clyde Township ,  Port Huron Area School Dist , 24.9652, 43.1452
+Saint Clair County,  Clyde Township ,  Yale Public Schools , 26.5398, 44.7198
+Saint Clair County,  Columbus Township ,  East China Twp School Dist , 23.7982, 41.9782
+Saint Clair County,  Columbus Township ,  Marysville Public Sch Dist , 28.668, 46.848
+Saint Clair County,  Columbus Township ,  Memphis Community Schools , 26.7995, 44.9795
+Saint Clair County,  Columbus Township ,  Richmond Community Schools , 23.6139, 41.7939
+Saint Clair County,  Cottrellville Township ,  East China Twp School Dist , 23.71, 41.845
+Saint Clair County,  East China Township ,  East China Twp School Dist , 27.5213, 45.5213
+Saint Clair County,  Emmett Township ,  Capac Community Sch District , 24.881, 42.9392
+Saint Clair County,  Emmett Township ,  Yale Public Schools , 26.3849, 44.5649
+Saint Clair County,  Emmett Township - Emmett ,  Yale Public Schools , 33.4549, 51.6349
+Saint Clair County,  Fort Gratiot Township ,  Port Huron Area School Dist , 29.943, 48.123
+Saint Clair County,  Grant Township ,  Croswell Lexington Comm Sd , 24.0626, 42.2426
+Saint Clair County,  Grant Township ,  Port Huron Area School Dist , 27.8033, 45.9833
+Saint Clair County,  Grant Township ,  Yale Public Schools , 29.3779, 47.5579
+Saint Clair County,  Greenwood Township ,  Croswell Lexington Comm Sd , 23.0583, 41.0583
+Saint Clair County,  Greenwood Township ,  Yale Public Schools , 28.3209, 46.3209
+Saint Clair County,  Ira Township ,  Algonac Community Sch Dist , 27.7233, 45.8015
+Saint Clair County,  Ira Township ,  Anchor Bay School District , 31.4056, 49.5856
+Saint Clair County,  Ira Township ,  East China Twp School Dist , 27.045, 45.225
+Saint Clair County,  Kenockee Township ,  Memphis Community Schools , 28.3117, 46.4467
+Saint Clair County,  Kenockee Township ,  Port Huron Area School Dist , 26.2866, 44.4216
+Saint Clair County,  Kenockee Township ,  Yale Public Schools , 27.8573, 45.9923
+Saint Clair County,  Kimball Township ,  Marysville Public Sch Dist , 28.6956, 46.8756
+Saint Clair County,  Kimball Township ,  Memphis Community Schools , 26.8271, 45.0071
+Saint Clair County,  Kimball Township ,  Port Huron Area School Dist , 24.797, 42.977
+Saint Clair County,  Lynn Township ,  Brown City Comm School Dist , 24.7971, 42.7683
+Saint Clair County,  Lynn Township ,  Capac Community Sch District , 25.6707, 43.5501
+Saint Clair County,  Lynn Township ,  Yale Public Schools , 27.1597, 45.1597
+Saint Clair County,  Marine City ,  East China Twp School Dist , 39.6146, 57.6146
+Saint Clair County,  Marysville ,  East China Twp School Dist , 39.3294, 57.5094
+Saint Clair County,  Marysville ,  Marysville Public Sch Dist , 44.1992, 62.3792
+Saint Clair County,  Memphis ,  Memphis Community Schools , 42.2776, 60.2776
+Saint Clair County,  Mussey Township ,  Capac Community Sch District , 26.4905, 44.5487
+Saint Clair County,  Mussey Township - Capac ,  Capac Community Sch District , 41.9918, 60.05
+Saint Clair County,  Port Huron ,  Port Huron Area School Dist , 40.8761, 59.0561
+Saint Clair County,  Port Huron Township ,  Port Huron Area School Dist , 33.3545, 51.5345
+Saint Clair County,  Richmond ,  Richmond Community Schools , 39.4801, 57.6601
+Saint Clair County,  Riley Township ,  Armada Area Schools , 25.9516, 44.1316
+Saint Clair County,  Riley Township ,  Capac Community Sch District , 24.8151, 42.8733
+Saint Clair County,  Riley Township ,  Memphis Community Schools , 26.7745, 44.9545
+Saint Clair County,  Riley Township ,  Yale Public Schools , 26.319, 44.499
+Saint Clair County,  St Clair ,  East China Twp School Dist , 39.7615, 57.9415
+Saint Clair County,  St Clair Township ,  East China Twp School Dist , 23.557, 41.557
+Saint Clair County,  St Clair Township ,  Marysville Public Sch Dist , 28.3786, 46.3786
+Saint Clair County,  Wales Township ,  Marysville Public Sch Dist , 29.2025, 47.3825
+Saint Clair County,  Wales Township ,  Memphis Community Schools , 27.334, 45.514
+Saint Clair County,  Wales Township ,  Port Huron Area School Dist , 25.3039, 43.4839
+Saint Clair County,  Wales Township ,  Yale Public Schools , 26.8785, 45.0585
+Saint Clair County,  Yale ,  Yale Public Schools , 45.5043, 63.6843
+Saint Joseph County,  Burr Oak Township ,  Bronson Community Sch Dist , 24.4798, 42.2062
+Saint Joseph County,  Burr Oak Township ,  Burr Oak Comm School Dist , 22.9556, 40.9556
+Saint Joseph County,  Burr Oak Township ,  Colon Community School Dist , 25.5769, 43.5769
+Saint Joseph County,  Burr Oak Township ,  Nottawa Community School , 19.9769, 37.9769
+Saint Joseph County,  Burr Oak Township ,  Sturgis Public Schools , 27.9669, 45.9669
+Saint Joseph County,  Burr Oak Township - Burr Oak ,  Burr Oak Comm School Dist , 38.8006, 56.8006
+Saint Joseph County,  Colon Township ,  Burr Oak Comm School Dist , 26.4529, 44.6329
+Saint Joseph County,  Colon Township ,  Colon Community School Dist , 29.1004, 47.2804
+Saint Joseph County,  Colon Township ,  Mendon Community School Dist , 31.5244, 49.7044
+Saint Joseph County,  Colon Township ,  Nottawa Community School , 23.4444, 41.6244
+Saint Joseph County,  Colon Township - Colon ,  Colon Community School Dist , 41.3531, 59.5331
+Saint Joseph County,  Constantine Township ,  Constantine Public Sch Dist , 27.7718, 45.734
+Saint Joseph County,  Constantine Township ,  Three Rivers Community Schs. , 26.3718, 44.3718
+Saint Joseph County,  Constantine Township ,  White Pigeon Comm Sch Dist , 25.0918, 43.0918
+Saint Joseph County,  Constantine Township - Constantine ,  Constantine Public Sch Dist , 41.5218, 59.484
+Saint Joseph County,  Fabius Township ,  Constantine Public Sch Dist , 25.8814, 43.8436
+Saint Joseph County,  Fabius Township ,  Three Rivers Community Schs. , 24.4814, 42.4814
+Saint Joseph County,  Fawn River Township ,  Sturgis Public Schools , 28.1695, 46.1695
+Saint Joseph County,  Florence Township ,  Centreville Public Schools , 26.459, 44.639
+Saint Joseph County,  Florence Township ,  Constantine Public Sch Dist , 27.065, 45.2068
+Saint Joseph County,  Florence Township ,  Three Rivers Community Schs. , 25.651, 43.831
+Saint Joseph County,  Florence Township ,  White Pigeon Comm Sch Dist , 24.3582, 42.5382
+Saint Joseph County,  Flowerfield Township ,  Marcellus Community Schools , 22.7158, 40.8958
+Saint Joseph County,  Flowerfield Township ,  Three Rivers Community Schs. , 25.616, 43.796
+Saint Joseph County,  Leonidas Township ,  Athens Area Schools , 30.0926, 48.2726
+Saint Joseph County,  Leonidas Township ,  Colon Community School Dist , 27.5615, 45.7415
+Saint Joseph County,  Leonidas Township ,  Mendon Community School Dist , 29.9855, 48.1655
+Saint Joseph County,  Leonidas Township ,  Vicksburg Community Schools , 32.3676, 50.5476
+Saint Joseph County,  Lockport Township ,  Centreville Public Schools , 27.846, 45.846
+Saint Joseph County,  Lockport Township ,  Mendon Community School Dist , 29.646, 47.646
+Saint Joseph County,  Lockport Township ,  Three Rivers Community Schs. , 27.046, 45.046
+Saint Joseph County,  Lockport Township - Centreville ,  Centreville Public Schools , 40.2059, 58.2059
+Saint Joseph County,  Mendon Township ,  Mendon Community School Dist , 30.558, 48.558
+Saint Joseph County,  Mendon Township ,  Vicksburg Community Schools , 32.9165, 50.9165
+Saint Joseph County,  Mendon Township - Mendon ,  Mendon Community School Dist , 39.8139, 57.8139
+Saint Joseph County,  Mottville Township ,  Constantine Public Sch Dist , 27.0897, 45.2315
+Saint Joseph County,  Mottville Township ,  White Pigeon Comm Sch Dist , 24.3829, 42.5629
+Saint Joseph County,  Nottawa Township ,  Centreville Public Schools , 28.0586, 46.2386
+Saint Joseph County,  Nottawa Township ,  Colon Community School Dist , 27.4526, 45.6326
+Saint Joseph County,  Nottawa Township ,  Mendon Community School Dist , 29.8766, 48.0566
+Saint Joseph County,  Nottawa Township ,  Nottawa Community School , 21.7966, 39.9766
+Saint Joseph County,  Nottawa Township - Centreville ,  Centreville Public Schools , 40.4185, 58.5985
+Saint Joseph County,  Park Township ,  Mendon Community School Dist , 29.0322, 47.2122
+Saint Joseph County,  Park Township ,  Three Rivers Community Schs. , 26.4062, 44.5862
+Saint Joseph County,  Park Township ,  Vicksburg Community Schools , 31.4143, 49.5943
+Saint Joseph County,  Sherman Township ,  Burr Oak Comm School Dist , 23.6582, 41.6582
+Saint Joseph County,  Sherman Township ,  Centreville Public Schools , 26.8795, 44.8795
+Saint Joseph County,  Sherman Township ,  Nottawa Community School , 20.6795, 38.6795
+Saint Joseph County,  Sherman Township ,  Sturgis Public Schools , 28.6695, 46.6695
+Saint Joseph County,  Sherman Township ,  White Pigeon Comm Sch Dist , 24.7995, 42.7995
+Saint Joseph County,  Sturgis ,  Sturgis Public Schools , 41.61, 59.79
+Saint Joseph County,  Sturgis Township ,  Sturgis Public Schools , 28.1695, 46.1695
+Saint Joseph County,  Three Rivers ,  Three Rivers Community Schs. , 44.5625, 62.7425
+Saint Joseph County,  White Pigeon Township ,  White Pigeon Comm Sch Dist , 25.3089, 43.4889
+Saint Joseph County,  White Pigeon Township - White Pigeon ,  White Pigeon Comm Sch Dist , 35.5591, 53.7391
+Sanilac County,  Argyle Township ,  Deckerville Comm School Dist , 21.4536, 39.6336
+Sanilac County,  Argyle Township ,  Sandusky Comm School Dist , 27.8672, 46.0472
+Sanilac County,  Argyle Township ,  Ubly Community Schools , 24.578, 42.5235
+Sanilac County,  Austin Township ,  Ubly Community Schools , 25.5397, 43.4851
+Sanilac County,  Bridgehampton Township ,  Carsonville-port Sanilac S/d , 24.198, 42.378
+Sanilac County,  Bridgehampton Township ,  Deckerville Comm School Dist , 19.4786, 37.6586
+Sanilac County,  Bridgehampton Township ,  Sandusky Comm School Dist , 25.8922, 44.0722
+Sanilac County,  Bridgehampton Township - Carsonville ,  Carsonville-port Sanilac S/d , 38.5457, 56.7257
+Sanilac County,  Brown City ,  Brown City Comm School Dist , 41.6218, 59.7726
+Sanilac County,  Buel Township ,  Carsonville-port Sanilac S/d , 24.093, 42.273
+Sanilac County,  Buel Township ,  Croswell Lexington Comm Sd , 22.9995, 41.1795
+Sanilac County,  Buel Township ,  Peck Community School Dist , 22.8076, 40.9876
+Sanilac County,  Buel Township ,  Sandusky Comm School Dist , 25.7872, 43.9672
+Sanilac County,  Croswell ,  Croswell Lexington Comm Sd , 39.6213, 57.8013
+Sanilac County,  Custer Township ,  Deckerville Comm School Dist , 20.0495, 38.2295
+Sanilac County,  Custer Township ,  Sandusky Comm School Dist , 26.4631, 44.6431
+Sanilac County,  Delaware Township ,  Deckerville Comm School Dist , 21.3404, 39.5204
+Sanilac County,  Delaware Township ,  Harbor Beach Comm Schools , 27.1596, 45.3396
+Sanilac County,  Delaware Township ,  Ubly Community Schools , 24.4648, 42.4103
+Sanilac County,  Delaware Township - Forestville ,  Harbor Beach Comm Schools , 36.6678, 54.8478
+Sanilac County,  Elk Township ,  Peck Community School Dist , 23.354, 41.534
+Sanilac County,  Elk Township ,  Sandusky Comm School Dist , 25.3538, 43.5338
+Sanilac County,  Elk Township - Peck ,  Peck Community School Dist , 36.5435, 54.7235
+Sanilac County,  Elmer Township ,  Marlette Community Schools , 21.2996, 39.4796
+Sanilac County,  Elmer Township ,  Sandusky Comm School Dist , 26.8648, 45.0448
+Sanilac County,  Evergreen Township ,  Cass City Public Schools , 26.6759, 44.8323
+Sanilac County,  Flynn Township ,  Brown City Comm School Dist , 24.8785, 42.8496
+Sanilac County,  Flynn Township ,  Marlette Community Schools , 20.0185, 38.0185
+Sanilac County,  Flynn Township ,  Peck Community School Dist , 22.5785, 40.5785
+Sanilac County,  Flynn Township ,  Sandusky Comm School Dist , 25.5286, 43.5286
+Sanilac County,  Forester Township ,  Deckerville Comm School Dist , 18.5488, 36.7288
+Sanilac County,  Fremont Township ,  Croswell Lexington Comm Sd , 24.0231, 42.2031
+Sanilac County,  Fremont Township ,  Peck Community School Dist , 23.8312, 42.0112
+Sanilac County,  Fremont Township ,  Yale Public Schools , 28.5404, 46.7204
+Sanilac County,  Greenleaf Township ,  Cass City Public Schools , 24.6553, 42.8117
+Sanilac County,  Greenleaf Township ,  Ubly Community Schools , 23.5521, 41.4976
+Sanilac County,  Lamotte Township ,  Cass City Public Schools , 25.167, 43.3233
+Sanilac County,  Lamotte Township ,  Marlette Community Schools , 21.7877, 39.9677
+Sanilac County,  Lamotte Township ,  Sandusky Comm School Dist , 27.3529, 45.5329
+Sanilac County,  Lexington Township ,  Carsonville-port Sanilac S/d , 22.945, 41.125
+Sanilac County,  Lexington Township ,  Croswell Lexington Comm Sd , 21.8515, 40.0315
+Sanilac County,  Lexington Township - Lexington ,  Croswell Lexington Comm Sd , 33.0084, 51.1884
+Sanilac County,  Maple Valley Township ,  Brown City Comm School Dist , 25.1413, 43.2921
+Sanilac County,  Marion Township ,  Deckerville Comm School Dist , 19.5381, 37.7181
+Sanilac County,  Marion Township - Deckerville ,  Deckerville Comm School Dist , 38.3069, 56.4869
+Sanilac County,  Marlette ,  Marlette Community Schools , 34.8299, 53.0099
+Sanilac County,  Marlette Township ,  Marlette Community Schools , 23.3382, 41.5182
+Sanilac County,  Minden Township ,  Deckerville Comm School Dist , 21.9466, 40.1266
+Sanilac County,  Minden Township ,  Ubly Community Schools , 25.071, 43.0165
+Sanilac County,  Minden Township - Minden City ,  Ubly Community Schools , 38.0696, 56.0151
+Sanilac County,  Moore Township ,  Marlette Community Schools , 21.0877, 39.0877
+Sanilac County,  Moore Township ,  Sandusky Comm School Dist , 26.5978, 44.5978
+Sanilac County,  Sandusky ,  Sandusky Comm School Dist , 42.6534, 60.6534
+Sanilac County,  Sanilac Township ,  Carsonville-port Sanilac S/d , 22.9139, 41.0939
+Sanilac County,  Sanilac Township ,  Croswell Lexington Comm Sd , 21.6514, 39.8314
+Sanilac County,  Sanilac Township - Port Sanilac ,  Carsonville-port Sanilac S/d , 33.2394, 51.4194
+Sanilac County,  Speaker Township ,  Brown City Comm School Dist , 26.1835, 44.3344
+Sanilac County,  Speaker Township ,  Croswell Lexington Comm Sd , 24.0524, 42.2324
+Sanilac County,  Speaker Township ,  Peck Community School Dist , 23.8605, 42.0405
+Sanilac County,  Speaker Township ,  Yale Public Schools , 28.5698, 46.7498
+Sanilac County,  Speaker Township - Melvin ,  Brown City Comm School Dist , 33.2535, 51.4044
+Sanilac County,  Washington Township ,  Carsonville-port Sanilac S/d , 23.2917, 41.4717
+Sanilac County,  Washington Township ,  Croswell Lexington Comm Sd , 22.1982, 40.3782
+Sanilac County,  Washington Township ,  Sandusky Comm School Dist , 24.9859, 43.1659
+Sanilac County,  Washington Township - Applegate ,  Carsonville-port Sanilac S/d , 32.8885, 51.0685
+Sanilac County,  Washington Township - Applegate ,  Croswell Lexington Comm Sd , 31.795, 49.975
+Sanilac County,  Washington Township - Carsonville ,  Carsonville-port Sanilac S/d , 37.6395, 55.8195
+Sanilac County,  Watertown Township ,  Carsonville-port Sanilac S/d , 25.2291, 43.4091
+Sanilac County,  Watertown Township ,  Sandusky Comm School Dist , 26.9233, 45.1033
+Sanilac County,  Wheatland Township ,  Deckerville Comm School Dist , 20.5039, 38.6839
+Sanilac County,  Wheatland Township ,  Sandusky Comm School Dist , 26.9175, 45.0975
+Sanilac County,  Worth Township ,  Croswell Lexington Comm Sd , 22.6774, 40.8574
+Schoolcraft County,  Doyle Township ,  Manistique Area Schools , 24.005, 42.185
+Schoolcraft County,  Germfask Township ,  Manistique Area Schools , 25.9823, 44.1623
+Schoolcraft County,  Hiawatha Township ,  Manistique Area Schools , 20.3796, 38.3796
+Schoolcraft County,  Hiawatha Township ,  Munising Public Schools , 16.4493, 34.4493
+Schoolcraft County,  Inwood Township ,  Big Bay De Noc School Dist , 21.7838, 39.9638
+Schoolcraft County,  Manistique ,  Manistique Area Schools , 42.4633, 60.6433
+Schoolcraft County,  Manistique Township ,  Manistique Area Schools , 21.6207, 39.8007
+Schoolcraft County,  Mueller Township ,  Manistique Area Schools , 21.6573, 39.8373
+Schoolcraft County,  Seney Township ,  Tahquamenon Area Schools , 19.5779, 37.7579
+Schoolcraft County,  Thompson Township ,  Manistique Area Schools , 22.4396, 40.6196
+Shiawassee County,  Antrim Township ,  Byron Area Schools , 23.5592, 41.5901
+Shiawassee County,  Antrim Township ,  Durand Area Schools , 27.3098, 45.4898
+Shiawassee County,  Antrim Township ,  Fowlerville Community Schs , 31.067, 49.247
+Shiawassee County,  Antrim Township ,  Morrice Area Schools , 27.6128, 44.281
+Shiawassee County,  Bennington Township ,  Corunna Public School Dist , 26.4434, 44.6234
+Shiawassee County,  Bennington Township ,  Laingsburg Comm School Dist , 31.5338, 49.7138
+Shiawassee County,  Bennington Township ,  Morrice Area Schools , 28.8068, 45.475
+Shiawassee County,  Bennington Township ,  Owosso Public Schools , 24.7668, 42.9468
+Shiawassee County,  Bennington Township ,  Perry Public School District , 29.4128, 47.5928
+Shiawassee County,  Burns Township ,  Byron Area Schools , 24.5346, 42.5655
+Shiawassee County,  Burns Township ,  Durand Area Schools , 28.2853, 46.4653
+Shiawassee County,  Burns Township - Byron ,  Byron Area Schools , 34.8441, 52.875
+Shiawassee County,  Caledonia Township ,  Corunna Public School Dist , 24.8214, 43.0014
+Shiawassee County,  Caledonia Township ,  Owosso Public Schools , 23.1448, 41.3248
+Shiawassee County,  Corunna ,  Corunna Public School Dist , 38.9077, 57.0877
+Shiawassee County,  Durand ,  Durand Area Schools , 51.2294, 69.4094
+Shiawassee County,  Fairfield Township ,  Ovid Elsie Area Schools , 30.6013, 48.7504
+Shiawassee County,  Hazelton Township ,  Chesaning Union Schools , 25.4089, 43.5889
+Shiawassee County,  Hazelton Township ,  Corunna Public School Dist , 26.2278, 44.4078
+Shiawassee County,  Hazelton Township ,  New Lothrop Area Public Sd , 29.5709, 47.7509
+Shiawassee County,  Hazelton Township ,  Owosso Public Schools , 24.5512, 42.7312
+Shiawassee County,  Hazelton Township - New Lothrop ,  New Lothrop Area Public Sd , 40.6809, 58.8609
+Shiawassee County,  Laingsburg ,  Laingsburg Comm School Dist , 49.2055, 67.3855
+Shiawassee County,  Middlebury Township ,  Ovid Elsie Area Schools , 32.1133, 50.2623
+Shiawassee County,  Middlebury Township ,  Owosso Public Schools , 27.3762, 45.5562
+Shiawassee County,  New Haven Township ,  Chesaning Union Schools , 26.2026, 44.3826
+Shiawassee County,  New Haven Township ,  Corunna Public School Dist , 27.0215, 45.2015
+Shiawassee County,  New Haven Township ,  Owosso Public Schools , 25.3449, 43.5249
+Shiawassee County,  Ovid ,  Ovid Elsie Area Schools , 44.2818, 62.4309
+Shiawassee County,  Owosso ,  Owosso Public Schools , 38.9872, 57.1672
+Shiawassee County,  Owosso Township ,  Ovid Elsie Area Schools , 30.0664, 48.2155
+Shiawassee County,  Owosso Township ,  Owosso Public Schools , 25.3293, 43.5093
+Shiawassee County,  Perry ,  Perry Public School District , 41.8927, 60.0727
+Shiawassee County,  Perry Township ,  Morrice Area Schools , 28.0369, 44.5401
+Shiawassee County,  Perry Township ,  Perry Public School District , 28.6369, 46.6369
+Shiawassee County,  Perry Township - Morrice ,  Morrice Area Schools , 40.9601, 57.4633
+Shiawassee County,  Rush Township ,  Chesaning Union Schools , 27.9688, 46.1488
+Shiawassee County,  Rush Township ,  Ovid Elsie Area Schools , 31.8482, 49.9973
+Shiawassee County,  Rush Township ,  Owosso Public Schools , 27.1111, 45.2911
+Shiawassee County,  Sciota Township ,  Laingsburg Comm School Dist , 29.7833, 47.7833
+Shiawassee County,  Sciota Township ,  Ovid Elsie Area Schools , 27.7735, 45.7429
+Shiawassee County,  Sciota Township ,  Owosso Public Schools , 23.0833, 41.0833
+Shiawassee County,  Shiawassee Township ,  Corunna Public School Dist , 25.7191, 43.8991
+Shiawassee County,  Shiawassee Township ,  Durand Area Schools , 27.7795, 45.9595
+Shiawassee County,  Shiawassee Township ,  Morrice Area Schools , 28.0825, 44.7508
+Shiawassee County,  Shiawassee Township ,  Owosso Public Schools , 24.0425, 42.2225
+Shiawassee County,  Shiawassee Township - Bancroft ,  Durand Area Schools , 38.1337, 56.3137
+Shiawassee County,  Venice Township ,  Corunna Public School Dist , 25.6849, 43.8649
+Shiawassee County,  Venice Township ,  Durand Area Schools , 27.7453, 45.9253
+Shiawassee County,  Venice Township - Lennon ,  Durand Area Schools , 38.2718, 56.4518
+Shiawassee County,  Vernon Township ,  Byron Area Schools , 24.0198, 42.0507
+Shiawassee County,  Vernon Township ,  Corunna Public School Dist , 25.7101, 43.8901
+Shiawassee County,  Vernon Township ,  Durand Area Schools , 27.7705, 45.9505
+Shiawassee County,  Vernon Township - Vernon ,  Corunna Public School Dist , 36.8244, 55.0044
+Shiawassee County,  Woodhull Township ,  Bath Community Schools , 33.1, 51.28
+Shiawassee County,  Woodhull Township ,  Haslett Public Schools , 36.7322, 54.9122
+Shiawassee County,  Woodhull Township ,  Laingsburg Comm School Dist , 30.0953, 48.2753
+Shiawassee County,  Woodhull Township ,  Perry Public School District , 27.9743, 46.1543
+Tuscola County,  Akron Township ,  Akron Fairgrove Schools , 26.3661, 44.3661
+Tuscola County,  Akron Township ,  Unionville Sebewaing Area Sd , 29.7745, 47.7745
+Tuscola County,  Akron Township - Akron ,  Akron Fairgrove Schools , 39.7573, 57.7573
+Tuscola County,  Almer Township ,  Akron Fairgrove Schools , 26.4997, 44.4997
+Tuscola County,  Almer Township ,  Caro Community Schools , 31.249, 49.249
+Tuscola County,  Almer Township ,  Cass City Public Schools , 27.0081, 44.9847
+Tuscola County,  Arbela Township ,  Frankenmuth School District , 26.0346, 43.6484
+Tuscola County,  Arbela Township ,  Millington Comm Schools , 27.6312, 45.509
+Tuscola County,  Arbela Township ,  Vassar Public Schools , 26.3683, 44.3683
+Tuscola County,  Caro ,  Caro Community Schools , 44.3978, 62.5778
+Tuscola County,  Columbia Township ,  Akron Fairgrove Schools , 27.7102, 45.8902
+Tuscola County,  Columbia Township ,  Caro Community Schools , 31.0011, 49.1811
+Tuscola County,  Columbia Township ,  Cass City Public Schools , 28.2236, 46.38
+Tuscola County,  Columbia Township ,  Owendale Gagetown Area S/d , 27.6658, 45.8458
+Tuscola County,  Columbia Township ,  Unionville Sebewaing Area Sd , 31.1526, 49.3326
+Tuscola County,  Columbia Township - Unionville ,  Unionville Sebewaing Area Sd , 45.0365, 63.2165
+Tuscola County,  Dayton Township ,  Kingston Community Sch Dist , 28.4297, 46.6097
+Tuscola County,  Dayton Township ,  Mayville Community Sch Dist , 28.2075, 46.3875
+Tuscola County,  Denmark Township ,  Frankenmuth School District , 26.303, 44.093
+Tuscola County,  Denmark Township ,  Reese Public Schools , 28.2157, 46.1302
+Tuscola County,  Denmark Township ,  Vassar Public Schools , 26.6401, 44.8201
+Tuscola County,  Denmark Township - Reese ,  Reese Public Schools , 39.1994, 57.114
+Tuscola County,  Elkland Township ,  Cass City Public Schools , 25.5363, 43.6927
+Tuscola County,  Elkland Township ,  Owendale Gagetown Area S/d , 24.9785, 43.1585
+Tuscola County,  Elkland Township - Cass City ,  Cass City Public Schools , 43.8564, 62.0128
+Tuscola County,  Ellington Township ,  Caro Community Schools , 31.3747, 49.5547
+Tuscola County,  Ellington Township ,  Cass City Public Schools , 27.0914, 45.2478
+Tuscola County,  Elmwood Township ,  Cass City Public Schools , 27.2049, 45.3612
+Tuscola County,  Elmwood Township ,  Owendale Gagetown Area S/d , 26.647, 44.827
+Tuscola County,  Elmwood Township - Gagetown ,  Owendale Gagetown Area S/d , 48.5911, 66.7711
+Tuscola County,  Fairgrove Township ,  Akron Fairgrove Schools , 24.4126, 42.5926
+Tuscola County,  Fairgrove Township ,  Caro Community Schools , 27.7036, 45.8836
+Tuscola County,  Fairgrove Township ,  Reese Public Schools , 25.9361, 43.8507
+Tuscola County,  Fairgrove Township - Akron ,  Akron Fairgrove Schools , 37.8038, 55.9838
+Tuscola County,  Fairgrove Township - Fairgrove ,  Akron Fairgrove Schools , 36.577, 54.757
+Tuscola County,  Fremont Township ,  Caro Community Schools , 26.6765, 44.8565
+Tuscola County,  Fremont Township ,  Mayville Community Sch Dist , 26.323, 44.503
+Tuscola County,  Fremont Township - Mayville ,  Mayville Community Sch Dist , 41.0422, 59.2222
+Tuscola County,  Gilford Township ,  Akron Fairgrove Schools , 25.3999, 43.3999
+Tuscola County,  Gilford Township ,  Reese Public Schools , 27.9048, 45.642
+Tuscola County,  Indian Fields Township ,  Caro Community Schools , 31.2253, 49.4053
+Tuscola County,  Juniata Township ,  Akron Fairgrove Schools , 26.22, 44.4
+Tuscola County,  Juniata Township ,  Caro Community Schools , 30.5538, 48.7338
+Tuscola County,  Juniata Township ,  Reese Public Schools , 28.543, 46.4576
+Tuscola County,  Juniata Township ,  Vassar Public Schools , 26.9674, 45.1474
+Tuscola County,  Kingston Township ,  Cass City Public Schools , 26.0067, 43.9833
+Tuscola County,  Kingston Township ,  Kingston Community Sch Dist , 28.6267, 46.6267
+Tuscola County,  Kingston Township ,  Marlette Community Schools , 22.6609, 40.6609
+Tuscola County,  Kingston Township - Kingston ,  Kingston Community Sch Dist , 46.18, 64.18
+Tuscola County,  Koylton Township ,  Kingston Community Sch Dist , 29.73, 47.91
+Tuscola County,  Koylton Township ,  Marlette Community Schools , 23.7045, 41.8845
+Tuscola County,  Koylton Township - Kingston ,  Kingston Community Sch Dist , 48.2833, 66.4633
+Tuscola County,  Millington Township ,  Millington Comm Schools , 28.2543, 46.1321
+Tuscola County,  Millington Township - Millington ,  Millington Comm Schools , 40.047, 57.9248
+Tuscola County,  Novesta Township ,  Cass City Public Schools , 26.2863, 44.4426
+Tuscola County,  Tuscola Township ,  Frankenmuth School District , 24.4277, 42.2176
+Tuscola County,  Tuscola Township ,  Millington Comm Schools , 26.0402, 44.0968
+Tuscola County,  Tuscola Township ,  Vassar Public Schools , 24.7647, 42.9447
+Tuscola County,  Vassar ,  Vassar Public Schools , 38.6254, 56.8054
+Tuscola County,  Vassar Township ,  Mayville Community Sch Dist , 26.465, 44.645
+Tuscola County,  Vassar Township ,  Millington Comm Schools , 24.751, 42.8075
+Tuscola County,  Vassar Township ,  Vassar Public Schools , 23.4754, 41.6554
+Tuscola County,  Watertown Township ,  Mayville Community Sch Dist , 25.3526, 43.5326
+Tuscola County,  Watertown Township ,  Millington Comm Schools , 23.6385, 41.6951
+Tuscola County,  Wells Township ,  Caro Community Schools , 29.2645, 47.4445
+Tuscola County,  Wells Township ,  Cass City Public Schools , 24.9812, 43.1376
+Tuscola County,  Wells Township ,  Kingston Community Sch Dist , 27.6274, 45.8074
+Tuscola County,  Wisner Township ,  Akron Fairgrove Schools , 26.4407, 44.6207
+Tuscola County,  Wisner Township ,  Unionville Sebewaing Area Sd , 29.8832, 48.0632
+Van Buren County,  Almena Township ,  Gobles Public School Dist , 34.5195, 52.6995
+Van Buren County,  Almena Township ,  Mattawan Cons School Dist , 32.862, 51.042
+Van Buren County,  Almena Township ,  Paw Paw Public School Dist , 32.7597, 50.9397
+Van Buren County,  Antwerp Township ,  Lawton Community School Dist , 30.7996, 48.9796
+Van Buren County,  Antwerp Township ,  Mattawan Cons School Dist , 31.0611, 49.2411
+Van Buren County,  Antwerp Township ,  Paw Paw Public School Dist , 30.9588, 49.1388
+Van Buren County,  Antwerp Township - Lawton ,  Lawton Community School Dist , 47.9287, 66.1087
+Van Buren County,  Antwerp Township - Mattawan ,  Mattawan Cons School Dist , 38.4288, 56.6088
+Van Buren County,  Antwerp Township - Paw Paw ,  Paw Paw Public School Dist , 48.409, 66.589
+Van Buren County,  Arlington Township ,  Bangor Public Schools , 31.1327, 49.3127
+Van Buren County,  Arlington Township ,  Lawrence Public School Dist , 33.2078, 51.1682
+Van Buren County,  Bangor ,  Bangor Public Schools , 48.2102, 66.3902
+Van Buren County,  Bangor Township ,  Bangor Public Schools , 33.3629, 51.5429
+Van Buren County,  Bangor Township ,  Bangor Twp School District 8 , 28.57, 45.5974
+Van Buren County,  Bangor Township ,  Covert Public Schools , 28.57, 46.75
+Van Buren County,  Bangor Township ,  Hartford Public School Dist , 36.3975, 54.5775
+Van Buren County,  Bloomingdale Township ,  Bloomingdale Public Sch Dist , 33.1172, 51.2881
+Van Buren County,  Bloomingdale Township ,  Gobles Public School Dist , 36.4502, 54.6302
+Van Buren County,  Bloomingdale Township - Bloomingdale ,  Bloomingdale Public Sch Dist , 46.6288, 64.7997
+Van Buren County,  Columbia Township ,  Bangor Public Schools , 32.3158, 50.4958
+Van Buren County,  Columbia Township ,  Bloomingdale Public Sch Dist , 35.2998, 53.4707
+Van Buren County,  Columbia Township - Breedsville ,  Bangor Public Schools , 38.6782, 56.8582
+Van Buren County,  Covert Township ,  Bangor Public Schools , 34.4346, 52.6146
+Van Buren County,  Covert Township ,  Coloma Community Schools , 29.7659, 47.7301
+Van Buren County,  Covert Township ,  Covert Public Schools , 29.6417, 47.8217
+Van Buren County,  Covert Township ,  South Haven Public Schools , 34.4897, 52.6697
+Van Buren County,  Covert Township ,  Watervliet School District , 32.0384, 50.1677
+Van Buren County,  Decatur Township ,  Decatur Public Schools , 33.6606, 51.6751
+Van Buren County,  Decatur Township ,  Lawton Community School Dist , 35.3473, 53.5273
+Van Buren County,  Decatur Township ,  Marcellus Community Schools , 28.4639, 46.6439
+Van Buren County,  Decatur Township - Decatur ,  Decatur Public Schools , 48.2538, 66.2683
+Van Buren County,  Geneva Township ,  Bangor Public Schools , 30.7951, 48.9751
+Van Buren County,  Geneva Township ,  Covert Public Schools , 26.0021, 44.1821
+Van Buren County,  Geneva Township ,  South Haven Public Schools , 33.1382, 51.3182
+Van Buren County,  Gobles ,  Gobles Public School Dist , 48.1773, 66.3573
+Van Buren County,  Hamilton Township ,  Decatur Public Schools , 35.9517, 53.9662
+Van Buren County,  Hartford ,  Hartford Public School Dist , 44.5816, 62.7616
+Van Buren County,  Hartford Township ,  Hartford Public School Dist , 31.9401, 50.1201
+Van Buren County,  Hartford Township ,  Watervliet School District , 26.5094, 44.6387
+Van Buren County,  Keeler Township ,  Dowagiac Union Schools , 28.4448, 46.523
+Van Buren County,  Keeler Township ,  Hartford Public School Dist , 33.0992, 51.2792
+Van Buren County,  Keeler Township ,  Watervliet School District , 27.6684, 45.7977
+Van Buren County,  Lawrence Township ,  Decatur Public Schools , 33.325, 51.3395
+Van Buren County,  Lawrence Township ,  Hartford Public School Dist , 33.6482, 51.8282
+Van Buren County,  Lawrence Township ,  Lawrence Public School Dist , 32.6887, 50.6491
+Van Buren County,  Lawrence Township ,  Paw Paw Public School Dist , 35.1708, 53.3508
+Van Buren County,  Lawrence Township - Lawrence ,  Lawrence Public School Dist , 48.331, 66.2915
+Van Buren County,  Paw Paw Township ,  Decatur Public Schools , 30.0889, 48.1035
+Van Buren County,  Paw Paw Township ,  Lawrence Public School Dist , 29.4526, 47.413
+Van Buren County,  Paw Paw Township ,  Lawton Community School Dist , 31.7756, 49.9556
+Van Buren County,  Paw Paw Township ,  Paw Paw Public School Dist , 31.9348, 50.1148
+Van Buren County,  Paw Paw Township - Paw Paw ,  Paw Paw Public School Dist , 49.385, 67.565
+Van Buren County,  Pine Grove Township ,  Gobles Public School Dist , 35.6049, 53.7849
+Van Buren County,  Pine Grove Township ,  Otsego Public Schools , 32.0416, 50.2216
+Van Buren County,  Porter Township ,  Lawton Community School Dist , 32.6535, 50.8335
+Van Buren County,  Porter Township ,  Marcellus Community Schools , 25.7702, 43.9502
+Van Buren County,  South Haven ,  South Haven Public Schools , 41.6225, 59.8025
+Van Buren County,  South Haven Township ,  Covert Public Schools , 24.5372, 42.7172
+Van Buren County,  South Haven Township ,  South Haven Public Schools , 31.6733, 49.8533
+Van Buren County,  Waverly Township ,  Bangor Public Schools , 29.2026, 47.3826
+Van Buren County,  Waverly Township ,  Bloomingdale Public Sch Dist , 32.1867, 50.3576
+Van Buren County,  Waverly Township ,  Gobles Public School Dist , 35.5197, 53.6997
+Van Buren County,  Waverly Township ,  Lawrence Public School Dist , 31.2777, 49.2381
+Van Buren County,  Waverly Township ,  Paw Paw Public School Dist , 33.7599, 51.9399
+Washtenaw County,  Ann Arbor ,  Ann Arbor Public Schools , 49.5632, 62.9349
+Washtenaw County,  Ann Arbor Township ,  Ann Arbor Public Schools , 38.0423, 51.4139
+Washtenaw County,  Ann Arbor Township - Barton Hills ,  Ann Arbor Public Schools , 48.0423, 61.4139
+Washtenaw County,  Augusta Township ,  Lincoln Cons School District , 32.6979, 50.8779
+Washtenaw County,  Augusta Township ,  Milan Area Schools , 38.3049, 56.454
+Washtenaw County,  Bridgewater Township ,  Clinton Community Schools , 28.2032, 46.3832
+Washtenaw County,  Bridgewater Township ,  Manchester Community Sch Dst , 31.7282, 49.9082
+Washtenaw County,  Bridgewater Township ,  Saline Area School District , 32.2023, 50.3823
+Washtenaw County,  Chelsea ,  Chelsea School District , 47.0129, 65.1929
+Washtenaw County,  Dexter ,  Dexter Community School Dist , 45.8412, 64.0212
+Washtenaw County,  Dexter Township ,  Chelsea School District , 36.8114, 54.9914
+Washtenaw County,  Dexter Township ,  Dexter Community School Dist , 36.281, 54.461
+Washtenaw County,  Dexter Township ,  Pinckney Community Schools , 34.3385, 52.4458
+Washtenaw County,  Freedom Township ,  Chelsea School District , 31.5764, 49.7564
+Washtenaw County,  Freedom Township ,  Dexter Community School Dist , 32.6506, 50.8306
+Washtenaw County,  Freedom Township ,  Manchester Community Sch Dst , 32.1596, 50.3396
+Washtenaw County,  Freedom Township ,  Saline Area School District , 32.6337, 50.8137
+Washtenaw County,  Lima Township ,  Chelsea School District , 34.5295, 52.7095
+Washtenaw County,  Lima Township ,  Dexter Community School Dist , 33.9991, 52.1791
+Washtenaw County,  Lodi Township ,  Ann Arbor Public Schools , 34.0883, 47.3276
+Washtenaw County,  Lodi Township ,  Dexter Community School Dist , 32.9219, 50.9219
+Washtenaw County,  Lodi Township ,  Saline Area School District , 32.9052, 50.9052
+Washtenaw County,  Lyndon Township ,  Chelsea School District , 34.4442, 52.6242
+Washtenaw County,  Lyndon Township ,  Stockbridge Comm Schools , 31.0149, 49.1949
+Washtenaw County,  Manchester Township ,  Clinton Community Schools , 29.4326, 47.6126
+Washtenaw County,  Manchester Township ,  Columbia School District , 30.967, 49.147
+Washtenaw County,  Manchester Township ,  Manchester Community Sch Dst , 32.9576, 51.1376
+Washtenaw County,  Manchester Township - Manchester ,  Manchester Community Sch Dst , 49.4204, 67.6004
+Washtenaw County,  Milan ,  Milan Area Schools , 53.3991, 71.5482
+Washtenaw County,  Northfield Township ,  Ann Arbor Public Schools , 40.0554, 53.4271
+Washtenaw County,  Northfield Township ,  Dexter Community School Dist , 40.7875, 58.9675
+Washtenaw County,  Northfield Township ,  South Lyon Community Schools , 35.732, 53.912
+Washtenaw County,  Northfield Township ,  Whitmore Lake Pub Sch Dist , 40.4256, 58.6056
+Washtenaw County,  Pittsfield Township ,  Ann Arbor Public Schools , 39.1236, 52.4953
+Washtenaw County,  Pittsfield Township ,  Milan Area Schools , 40.9439, 59.093
+Washtenaw County,  Pittsfield Township ,  Saline Area School District , 37.9286, 56.1086
+Washtenaw County,  Salem Township ,  Ann Arbor Public Schools , 32.2475, 45.4868
+Washtenaw County,  Salem Township ,  Northville Public Schools , 25.6378, 43.6378
+Washtenaw County,  Salem Township ,  Plymouth Canton Comm Schs , 26.7739, 44.7739
+Washtenaw County,  Salem Township ,  South Lyon Community Schools , 29.5175, 47.5175
+Washtenaw County,  Saline ,  Saline Area School District , 47.8178, 65.9978
+Washtenaw County,  Saline Township ,  Clinton Community Schools , 28.2489, 46.4289
+Washtenaw County,  Saline Township ,  Milan Area Schools , 36.3189, 54.468
+Washtenaw County,  Saline Township ,  Saline Area School District , 33.3036, 51.4836
+Washtenaw County,  Scio Township ,  Ann Arbor Public Schools , 35.2967, 48.6684
+Washtenaw County,  Scio Township ,  Dexter Community School Dist , 34.1186, 52.2986
+Washtenaw County,  Sharon Township ,  Chelsea School District , 31.4467, 49.6267
+Washtenaw County,  Sharon Township ,  Grass Lake Community Schools , 34.5539, 52.7339
+Washtenaw County,  Sharon Township ,  Manchester Community Sch Dst , 32.0298, 50.2098
+Washtenaw County,  Sharon Township ,  Napoleon Community Schools , 31.7158, 49.8958
+Washtenaw County,  Superior Township ,  Ann Arbor Public Schools , 38.248, 51.4873
+Washtenaw County,  Superior Township ,  Plymouth Canton Comm Schs , 33.0646, 51.0646
+Washtenaw County,  Superior Township ,  School District Of Ypsilanti , 36.9112, 54.7691
+Washtenaw County,  Superior Township ,  Willow Run Community Schools , 41.9112, 59.7691
+Washtenaw County,  Sylvan Township ,  Chelsea School District , 39.1235, 57.3035
+Washtenaw County,  Webster Township ,  Ann Arbor Public Schools , 37.2721, 50.6438
+Washtenaw County,  Webster Township ,  Dexter Community School Dist , 36.0941, 54.2741
+Washtenaw County,  Webster Township ,  Pinckney Community Schools , 31.4914, 49.5987
+Washtenaw County,  Webster Township ,  Whitmore Lake Pub Sch Dist , 35.7321, 53.9121
+Washtenaw County,  York Township ,  Lincoln Cons School District , 31.0971, 49.2771
+Washtenaw County,  York Township ,  Milan Area Schools , 36.704, 54.8531
+Washtenaw County,  York Township ,  Saline Area School District , 33.6888, 51.8688
+Washtenaw County,  Ypsilanti ,  School District Of Ypsilanti , 66.6384, 84.6749
+Washtenaw County,  Ypsilanti Township ,  Lincoln Cons School District , 46.7033, 64.8833
+Washtenaw County,  Ypsilanti Township ,  School District Of Ypsilanti , 47.2602, 65.2967
+Washtenaw County,  Ypsilanti Township ,  Van Buren Pub Schools , 42.7448, 60.9248
+Washtenaw County,  Ypsilanti Township ,  Willow Run Community Schools , 52.3102, 70.3467
+Wayne County,  Allen Park ,  Allen Park Public Schools , 62.4877, 80.6677
+Wayne County,  Allen Park ,  Melvindale Allen Park Schs , 50.3677, 68.5477
+Wayne County,  Allen Park ,  Southgate Community Sch Dist , 56.2762, 74.4562
+Wayne County,  Belleville ,  Van Buren Pub Schools , 46.1097, 64.2897
+Wayne County,  Brownstown Township ,  Gibraltar School District , 43.9413, 62.1213
+Wayne County,  Brownstown Township ,  Taylor School District , 37.5103, 55.6903
+Wayne County,  Brownstown Township ,  Woodhaven School District , 44.5983, 62.7783
+Wayne County,  Canton Township ,  Plymouth Canton Comm Schs , 38.4717, 56.6517
+Wayne County,  Canton Township ,  Van Buren Pub Schools , 39.3202, 57.5002
+Wayne County,  Canton Township ,  Wayne-westland Community S/d , 39.67, 57.85
+Wayne County,  Dearborn ,  Dearborn City School Dist , 62.8526, 74.8009
+Wayne County,  Dearborn ,  Westwood Community Schools , 50.9859, 69.1659
+Wayne County,  Dearborn Hts. ,  Crestwood School District , 51.4605, 69.6405
+Wayne County,  Dearborn Hts. ,  Dearborn City School Dist , 60.2972, 72.2455
+Wayne County,  Dearborn Hts. ,  Dearborn Hgts Sch Dist No. 7 , 55.8724, 73.8654
+Wayne County,  Dearborn Hts. ,  Taylor School District , 49.4001, 67.5801
+Wayne County,  Dearborn Hts. ,  Wayne-westland Community S/d , 52.2909, 70.4709
+Wayne County,  Dearborn Hts. ,  Westwood Community Schools , 48.4305, 66.6105
+Wayne County,  Detroit ,  Detroit City School District , 69.5562, 87.7362
+Wayne County,  Ecorse ,  Ecorse Public School Dist , 110.6138, 128.5047
+Wayne County,  Ecorse ,  River Rouge City Schools , 113.1388, 128.1373
+Wayne County,  Flat Rock ,  Flat Rock Community Schools , 54.2961, 72.4761
+Wayne County,  Flat Rock ,  Gibraltar School District , 50.3645, 68.5445
+Wayne County,  Flat Rock ,  Woodhaven School District , 51.0215, 69.2015
+Wayne County,  Garden City ,  Garden City School District , 52.0282, 70.2082
+Wayne County,  Gibraltar ,  Gibraltar School District , 50.1206, 68.3006
+Wayne County,  Grosse Ile Township ,  Grosse Ile Township Schools , 46.2677, 62.246
+Wayne County,  Grosse Pointe ,  Grosse Pointe Public Schs , 52.1875, 63.9868
+Wayne County,  Grosse Pte Farms ,  Grosse Pointe Public Schs , 50.0536, 61.8529
+Wayne County,  Grosse Pte Park ,  Grosse Pointe Public Schs , 53.0857, 64.885
+Wayne County,  Grosse Pte Shores ,  Grosse Pointe Public Schs , 54.6283, 66.4276
+Wayne County,  Grosse Pte Woods ,  Grosse Pointe Public Schs , 55.8967, 67.6961
+Wayne County,  Hamtramck ,  Hamtramck Public Schools , 57.8685, 76.0485
+Wayne County,  Harper Woods ,  City Of Harper Woods Schools , 78.6634, 96.8434
+Wayne County,  Harper Woods ,  Grosse Pointe Public Schs , 76.812, 88.6113
+Wayne County,  Highland Park ,  Highland Park City Schools , 81.0755, 98.9828
+Wayne County,  Huron Township ,  Flat Rock Community Schools , 42.419, 60.599
+Wayne County,  Huron Township ,  Huron School District , 38.1568, 56.3368
+Wayne County,  Huron Township ,  Woodhaven School District , 39.1444, 57.3244
+Wayne County,  Inkster ,  Inkster City School District , 78.2169, 96.2533
+Wayne County,  Inkster ,  Taylor School District , 66.0565, 84.2365
+Wayne County,  Inkster ,  Wayne-westland Community S/d , 68.9473, 87.1273
+Wayne County,  Inkster ,  Westwood Community Schools , 65.0869, 83.2669
+Wayne County,  Lincoln Park ,  Lincoln Park Public Schools , 52.358, 70.5107
+Wayne County,  Livonia ,  Clarenceville School Dist , 37.8198, 55.8198
+Wayne County,  Livonia ,  Livonia Public Schools , 41.1319, 59.1319
+Wayne County,  Melvindale ,  Melvindale Allen Park Schs , 68.7143, 86.8943
+Wayne County,  Northville ,  Northville Public Schools , 43.0469, 61.2269
+Wayne County,  Northville Township ,  Northville Public Schools , 35.981, 53.981
+Wayne County,  Northville Township ,  Plymouth Canton Comm Schs , 35.467, 53.467
+Wayne County,  Plymouth ,  Plymouth Canton Comm Schs , 43.2331, 61.4131
+Wayne County,  Plymouth Township ,  Plymouth Canton Comm Schs , 31.1458, 49.1458
+Wayne County,  Redford Township ,  Clarenceville School Dist , 54.3376, 72.5176
+Wayne County,  Redford Township ,  Redford Union School Dist , 62.7919, 80.9719
+Wayne County,  Redford Township ,  South Redford School Dist , 63.8524, 82.0324
+Wayne County,  River Rouge ,  River Rouge City Schools , 85.1641, 100.1626
+Wayne County,  Riverview ,  Riverview Community Sch Dist , 48.3599, 66.5399
+Wayne County,  Rockwood ,  Gibraltar School District , 56.8, 74.98
+Wayne County,  Romulus ,  Romulus Community Schools , 48.9261, 65.7793
+Wayne County,  Romulus ,  Wayne-westland Community S/d , 42.3697, 60.5497
+Wayne County,  Romulus ,  Woodhaven School District , 46.5669, 64.7469
+Wayne County,  Southgate ,  Southgate Community Sch Dist , 57.8803, 76.0603
+Wayne County,  Sumpter Township ,  Airport Community Sch Dist , 31.5335, 49.7135
+Wayne County,  Sumpter Township ,  Huron School District , 37.4018, 55.5818
+Wayne County,  Sumpter Township ,  Lincoln Cons School District , 37.801, 55.981
+Wayne County,  Sumpter Township ,  Van Buren Pub Schools , 33.8425, 52.0225
+Wayne County,  Taylor ,  Taylor School District , 54.0774, 72.2574
+Wayne County,  Trenton ,  Riverview Community Sch Dist , 52.6732, 70.8532
+Wayne County,  Trenton ,  Trenton Public Schools , 56.3692, 70.9304
+Wayne County,  Van Buren Township ,  Lincoln Cons School District , 40.4512, 58.6312
+Wayne County,  Van Buren Township ,  Van Buren Pub Schools , 36.4927, 54.6727
+Wayne County,  Wayne ,  Wayne-westland Community S/d , 52.3935, 70.5735
+Wayne County,  Westland ,  Garden City School District , 48.6647, 66.8447
+Wayne County,  Westland ,  Inkster City School District , 57.8118, 75.4909
+Wayne County,  Westland ,  Livonia Public Schools , 47.5884, 65.7684
+Wayne County,  Westland ,  Romulus Community Schools , 53.7718, 70.625
+Wayne County,  Westland ,  Taylor School District , 44.3246, 62.5046
+Wayne County,  Westland ,  Wayne-westland Community S/d , 47.2154, 65.3954
+Wayne County,  Woodhaven ,  Gibraltar School District , 53.25, 71.43
+Wayne County,  Woodhaven ,  Woodhaven School District , 53.907, 72.087
+Wayne County,  Wyandotte ,  Wyandotte City School Dist , 54.8643, 73.0443
+Wexford County,  Antioch Township ,  Cadillac Area Public Schools , 26.6228, 44.8028
+Wexford County,  Antioch Township ,  Mesick Consolidated Sch Dist , 27.2288, 45.4088
+Wexford County,  Antioch Township - Mesick ,  Mesick Consolidated Sch Dist , 38.8237, 57.0037
+Wexford County,  Boon Township ,  Cadillac Area Public Schools , 29.141, 47.321
+Wexford County,  Boon Township ,  Mesick Consolidated Sch Dist , 29.747, 47.927
+Wexford County,  Boon Township - Harrietta ,  Cadillac Area Public Schools , 35.141, 53.321
+Wexford County,  Cadillac ,  Cadillac Area Public Schools , 42.579, 60.759
+Wexford County,  Cedar Creek Township ,  Manton Consolidated Schools , 30.8422, 49.0222
+Wexford County,  Cherry Grove Township ,  Cadillac Area Public Schools , 28.3678, 46.5478
+Wexford County,  Cherry Grove Township ,  Pine River Area Schools , 28.8223, 47.0023
+Wexford County,  Clam Lake Township ,  Cadillac Area Public Schools , 28.7203, 46.9003
+Wexford County,  Clam Lake Township ,  Mcbain Rural Agr School Dist , 27.7608, 45.9408
+Wexford County,  Clam Lake Township ,  Pine River Area Schools , 29.1748, 47.3548
+Wexford County,  Colfax Township ,  Cadillac Area Public Schools , 27.3434, 45.3434
+Wexford County,  Colfax Township ,  Manton Consolidated Schools , 31.4434, 49.4434
+Wexford County,  Colfax Township ,  Mesick Consolidated Sch Dist , 27.9434, 45.9434
+Wexford County,  Greenwood Township ,  Kingsley Area School , 24.3575, 42.5284
+Wexford County,  Greenwood Township ,  Manton Consolidated Schools , 31.8183, 49.9983
+Wexford County,  Greenwood Township ,  Mesick Consolidated Sch Dist , 28.2833, 46.4633
+Wexford County,  Hanover Township ,  Buckley Comm School District , 26.3617, 44.5417
+Wexford County,  Hanover Township ,  Mesick Consolidated Sch Dist , 27.9949, 46.1749
+Wexford County,  Hanover Township - Buckley ,  Buckley Comm School District , 35.8477, 54.0277
+Wexford County,  Haring Township ,  Cadillac Area Public Schools , 27.8862, 46.0662
+Wexford County,  Henderson Township ,  Cadillac Area Public Schools , 27.3589, 45.3589
+Wexford County,  Liberty Township ,  Manton Consolidated Schools , 30.5772, 48.5772
+Wexford County,  Manton ,  Manton Consolidated Schools , 48.6874, 66.8674
+Wexford County,  Selma Township ,  Cadillac Area Public Schools , 27.5953, 45.7753
+Wexford County,  Selma Township ,  Mesick Consolidated Sch Dist , 28.2013, 46.3813
+Wexford County,  Slagle Township ,  Cadillac Area Public Schools , 27.6483, 45.8283
+Wexford County,  Slagle Township ,  Mesick Consolidated Sch Dist , 28.2543, 46.4343
+Wexford County,  Slagle Township - Harrietta ,  Cadillac Area Public Schools , 33.6483, 51.8283
+Wexford County,  South Branch Township ,  Cadillac Area Public Schools , 29.551, 47.731
+Wexford County,  South Branch Township ,  Mesick Consolidated Sch Dist , 30.157, 48.337
+Wexford County,  Springville Township ,  Mesick Consolidated Sch Dist , 28.1888, 46.3688
+Wexford County,  Springville Township - Mesick ,  Mesick Consolidated Sch Dist , 39.7837, 57.9637
+Wexford County,  Wexford Township ,  Benzie County Central Sch , 22.9503, 41.1303
+Wexford County,  Wexford Township ,  Buckley Comm School District , 25.5965, 43.7765
+Wexford County,  Wexford Township ,  Mesick Consolidated Sch Dist , 27.2297, 45.4097

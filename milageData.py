@@ -29,7 +29,7 @@ def getPagedData(url):
     ret = ""
     try:
         numCountyOptions = getNumberOfOptions(countyId)
-        for countyOptionIndex in range(38, numCountyOptions):
+        for countyOptionIndex in range(1, numCountyOptions):
             countyOption = getOptionElement(countyId, countyOptionIndex)
             countyName = countyOption.text.strip()
             clickOption(countyOption)
